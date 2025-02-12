@@ -10,9 +10,7 @@ The purpose of this repository is to demonstrate how [ZenML](https://github.com/
 - By integrating with tools like [MLflow](https://mlflow.org/) for deployment, tracking and more
 - By allowing you to build and deploy your machine learning pipelines easily
 
-## :snake: Python Requirements
-
-Let's jump into the Python packages you need. Within the Python environment of your choice, run:
+## Setting up ZenML
 
 ```bash
 git clone https://github.com/zenml-io/zenml-projects.git
